@@ -1,0 +1,12 @@
+dependencies:
+  esp_io_expander:
+    public: true
+    version: ^1.0.1
+  idf: '>=5.2'
+description: ESP IO Expander - XL9555
+repository: git@github.com:IUueana/esp-bsp.git
+repository_info:
+  commit_sha: 3ad9d48ec6fdd0712aadb892d89d7384a91a5aa8
+  path: components/io_expander/esp_io_expander_xl95xx_16bit
+url: https://github.com/IUueana/esp-bsp.git/master/components/esp_io_expander_xl95xx_16bit
+version: 1.0.0
